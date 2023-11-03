@@ -1,0 +1,97 @@
+/*--------
+  Header
+--------*/
+
+header {
+    background-color: #888;
+}
+
+header img {
+    border-radius: 10px;
+}
+
+header ul {
+    display: inline-block;
+    margin-left: auto;
+}
+
+header li {
+    font-size: 18px;
+    color: #fff;
+}
+
+/*------
+  gen 
+------*/
+
+button {
+    background-color: #888;
+    color: #fff;
+    border-radius: 5px;
+    padding: 8px 10px;
+}
+
+.main-stage {
+    width: 60%;
+    margin: 30px auto;
+}
+
+.main-stage h2 {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0;
+}
+
+/*------------
+  Event 関連
+------------*/
+
+.event {
+    box-sizing: border-box;
+    border: solid #555 1px;
+    padding: 20px;
+    margin-bottom: -1px;
+}
+
+.event h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.event p {
+    font-size: 18px;
+    margin: 5px 0;
+}
+
+.sign-field {
+    margin: 5px 0;
+}
+
+.sign-field label {
+    width: 100px;
+    text-align: left;
+    display: inline-block;
+}
+
+/*------------
+  Chat 関連
+------------*/
+
+.chat {
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: solid #555 1px;
+    padding: 20px;
+    margin-bottom: -1px;
+}
+
+.chat h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.chat p {
+    font-size: 18px;
+    margin: 5px 0;
+}
